@@ -12,3 +12,5 @@ CTestTestfile.cmake
 *.iml
 *.exe
 *.obj
+*.bat
+*.bak
